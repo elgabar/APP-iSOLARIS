@@ -1,0 +1,1182 @@
+{
+    "solarIrradianceData": {
+      "Acre": 4.8,
+      "Alagoas": 5.5,
+      "Amapá": 4.5,
+      "Amazonas": 4.9,
+      "Bahia": 5.4,
+      "Ceará": 5.7,
+      "Distrito Federal": 5.2,
+      "Espírito Santo": 4.9,
+      "Goiás": 5.6,
+      "Maranhão": 5.5,
+      "Mato Grosso": 5.8,
+      "Mato Grosso do Sul": 5.7,
+      "Minas Gerais": 5.4,
+      "Pará": 4.8,
+      "Paraíba": 5.3,
+      "Paraná": 4.7,
+      "Pernambuco": 5.6,
+      "Piauí": 5.5,
+      "Rio de Janeiro": 4.9,
+      "Rio Grande do Norte": 5.4,
+      "Rio Grande do Sul": 4.7,
+      "Rondônia": 5.3,
+      "Roraima": 4.7,
+      "Santa Catarina": 4.6,
+      "São Paulo": 5.1,
+      "Sergipe": 5.6,
+      "Tocantins": 5.4
+    },
+    
+   "electricityRates": 
+      {
+        "Acre": {
+        "residential": {
+          "monofasico": {
+            "rate": 0.733,
+            "minimumFee": 10.00,
+            "publicIlluminationFee": 2.00,
+            "minimumConsumption": 30
+          },
+          "bifasico": {
+            "rate": 0.61,
+            "minimumFee": 15.00,
+            "publicIlluminationFee": 2.00,
+            "minimumConsumption": 50
+          },
+          "trifasico": {
+            "rate": 0.61,
+            "minimumFee": 20.00,
+            "publicIlluminationFee": 2.00,
+            "minimumConsumption": 100
+          }
+        },
+        "commercial": {
+          "monofasico": {
+            "rate": 0.47,
+            "minimumFee": 10.00,
+            "publicIlluminationFee": 2.00,
+            "minimumConsumption": 30
+          },
+          "bifasico": {
+            "rate": 0.61,
+            "minimumFee": 15.00,
+            "publicIlluminationFee": 2.00,
+            "minimumConsumption": 50
+          },
+          "trifasico": {
+            "rate": 0.61,
+            "minimumFee": 20.00,
+            "publicIlluminationFee": 2.00,
+            "minimumConsumption": 100
+          }
+        }
+      }
+    },
+      "Alagoas": {
+        "residential": {
+          "monofasico": {
+            "rate": 0.733,
+            "minimumFee": 10.00,
+            "publicIlluminationFee": 2.00,
+            "minimumConsumption": 30
+          },
+          "bifasico": {
+            "rate": 0.61,
+            "minimumFee": 15.00,
+            "publicIlluminationFee": 2.00,
+            "minimumConsumption": 50
+          },
+          "trifasico": {
+            "rate": 0.61,
+            "minimumFee": 20.00,
+            "publicIlluminationFee": 2.00,
+            "minimumConsumption": 100
+          }
+        },
+        "commercial": {
+          "monofasico": {
+            "rate": 0.47,
+            "minimumFee": 10.00,
+            "publicIlluminationFee": 2.00,
+            "minimumConsumption": 30
+          },
+          "bifasico": {
+            "rate": 0.61,
+            "minimumFee": 15.00,
+            "publicIlluminationFee": 2.00,
+            "minimumConsumption": 50
+          },
+          "trifasico": {
+            "rate": 0.61,
+            "minimumFee": 20.00,
+            "publicIlluminationFee": 2.00,
+            "minimumConsumption": 100
+          }
+        }
+      },
+    "Amapá":  {
+      "residential": {
+        "monofasico": {
+          "rate": 0.733,
+          "minimumFee": 10.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 30
+        },
+        "bifasico": {
+          "rate": 0.61,
+          "minimumFee": 15.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 50
+        },
+        "trifasico": {
+          "rate": 0.61,
+          "minimumFee": 20.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 100
+        }
+      },
+      "commercial": {
+        "monofasico": {
+          "rate": 0.47,
+          "minimumFee": 10.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 30
+        },
+        "bifasico": {
+          "rate": 0.61,
+          "minimumFee": 15.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 50
+        },
+        "trifasico": {
+          "rate": 0.61,
+          "minimumFee": 20.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 100
+        }
+      }
+    },
+        "Amazonas": {
+      "residential": {
+        "monofasico": {
+          "rate": 0.733,
+          "minimumFee": 10.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 30
+        },
+        "bifasico": {
+          "rate": 0.61,
+          "minimumFee": 15.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 50
+        },
+        "trifasico": {
+          "rate": 0.61,
+          "minimumFee": 20.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 100
+        }
+      },
+      "commercial": {
+        "monofasico": {
+          "rate": 0.47,
+          "minimumFee": 10.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 30
+        },
+        "bifasico": {
+          "rate": 0.61,
+          "minimumFee": 15.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 50
+        },
+        "trifasico": {
+          "rate": 0.61,
+          "minimumFee": 20.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 100
+        }
+      }
+    },
+    "Bahia":  {
+      "residential": {
+        "monofasico": {
+          "rate": 0.733,
+          "minimumFee": 10.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 30
+        },
+        "bifasico": {
+          "rate": 0.61,
+          "minimumFee": 15.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 50
+        },
+        "trifasico": {
+          "rate": 0.61,
+          "minimumFee": 20.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 100
+        }
+      },
+      "commercial": {
+        "monofasico": {
+          "rate": 0.47,
+          "minimumFee": 10.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 30
+        },
+        "bifasico": {
+          "rate": 0.61,
+          "minimumFee": 15.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 50
+        },
+        "trifasico": {
+          "rate": 0.61,
+          "minimumFee": 20.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 100
+        }
+      }
+    },
+        "Ceará": {
+      "residential": {
+        "monofasico": {
+          "rate": 0.733,
+          "minimumFee": 10.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 30
+        },
+        "bifasico": {
+          "rate": 0.61,
+          "minimumFee": 15.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 50
+        },
+        "trifasico": {
+          "rate": 0.61,
+          "minimumFee": 20.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 100
+        }
+      },
+      "commercial": {
+        "monofasico": {
+          "rate": 0.47,
+          "minimumFee": 10.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 30
+        },
+        "bifasico": {
+          "rate": 0.61,
+          "minimumFee": 15.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 50
+        },
+        "trifasico": {
+          "rate": 0.61,
+          "minimumFee": 20.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 100
+        }
+      }
+    },
+        "Distrito Federal": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Espírito Santo": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Goiás": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Maranhão": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Mato Grosso": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Mato Grosso do Sul": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Minas Gerais": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Pará": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Paraíba": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Paraná": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Pernambuco": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Piauí": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Rio de Janeiro": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Rio Grande do Norte": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Rio Grande do Sul": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Rondônia": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Roraima": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Santa Catarina": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+         "São Paulo": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+        "Sergipe": {
+          "residential": {
+            "monofasico": {
+              "rate": 0.733,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          },
+          "commercial": {
+            "monofasico": {
+              "rate": 0.47,
+              "minimumFee": 10.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 30
+            },
+            "bifasico": {
+              "rate": 0.61,
+              "minimumFee": 15.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 50
+            },
+            "trifasico": {
+              "rate": 0.61,
+              "minimumFee": 20.00,
+              "publicIlluminationFee": 2.00,
+              "minimumConsumption": 100
+            }
+          }
+        },
+    "Tocantins":  {
+      "residential": {
+        "monofasico": {
+          "rate": 0.733,
+          "minimumFee": 10.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 30
+        },
+        "bifasico": {
+          "rate": 0.61,
+          "minimumFee": 15.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 50
+        },
+        "trifasico": {
+          "rate": 0.61,
+          "minimumFee": 20.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 100
+        }
+      },
+      "commercial": {
+        "monofasico": {
+          "rate": 0.47,
+          "minimumFee": 10.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 30
+        },
+        "bifasico": {
+          "rate": 0.61,
+          "minimumFee": 15.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 50
+        },
+        "trifasico": {
+          "rate": 0.61,
+          "minimumFee": 20.00,
+          "publicIlluminationFee": 2.00,
+          "minimumConsumption": 100
+        }
+      }
+    },
+
+"installationTypes": {
+      "monofasico": {
+        "minimumConsumption": 30
+      },
+      "bifasico": {
+        "minimumConsumption": 50
+      },
+      "trifasico": {
+        "minimumConsumption": 100
+      }
+    }
+  }
+  

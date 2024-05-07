@@ -1,0 +1,16 @@
+{
+    "name": "My API",
+    "version": "1.0.0",
+    "description": "An API for serving solar irradiance data and electricity rates",
+    "endpoints": {
+      "/data": {
+        "description": "Returns all data",
+        "method": "GET"
+      },
+      "/data/:state": {
+        "description": "Returns data for a specific state",
+        "method": "GET"
+      }
+    }
+  }
+  
